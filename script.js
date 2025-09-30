@@ -42,7 +42,7 @@ function prevSlide() {
 
 // Automatyczne przewijanie
 function startAutoPlay() {
-    autoPlayInterval = setInterval(nextSlide, 4000); // Zmiana co 4 sekundy
+    autoPlayInterval = setInterval(nextSlide, 7000); // Zmiana co 4 sekundy
 }
 
 function stopAutoPlay() {
